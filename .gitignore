@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Celery
+celery_beat_schedule
+celerybeat-schedule
+
+# Environment variables (never commit these!)
+.env
+.env.local
+.env.*.local
+
+# Node modules (frontend)
+node_modules/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Misc
+.cache/
+*.sqlite
+*.db
+
