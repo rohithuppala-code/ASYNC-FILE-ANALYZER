@@ -452,6 +452,6 @@ Read the documentation files:
 - `docs/FLOW_EXPLANATION.md` - For overall flow
 - `docs/RABBITMQ_EXPLANATION.md` - For RabbitMQ questions
 - `docs/CELERY_EXPLANATION.md` - For Celery questions
-- `docs/REDIS_EXPLANATION.md` - For Redis questions
+- `docs/REDIS_EXPLANATION.md` - For learning redis
 
 Happy Learning! 🎉
