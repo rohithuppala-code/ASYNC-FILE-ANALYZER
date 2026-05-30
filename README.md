@@ -450,8 +450,8 @@ MIT License - Feel free to use for learning!
 
 Read the documentation files:
 - `docs/FLOW_EXPLANATION.md` - For overall flow
-- `docs/RABBITMQ_EXPLANATION.md` - For RabbitMQ questions
-- `docs/CELERY_EXPLANATION.md` - For Celery questions
+- `docs/RABBITMQ_EXPLANATION.md` - For learning RabbitMQ
+- `docs/CELERY_EXPLANATION.md` - For learning celery
 - `docs/REDIS_EXPLANATION.md` - For learning redis
 
 Happy Learning! 🎉
